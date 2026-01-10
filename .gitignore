@@ -1,0 +1,12 @@
+# Claude Code session data
+.claude/
+
+# Project-specific instructions (not relevant to public)
+CLAUDE.md
+
+# Backups
+*.bak
+
+# Python
+__pycache__/
+*.pyc
